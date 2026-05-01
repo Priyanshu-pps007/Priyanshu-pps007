@@ -92,7 +92,7 @@ Real-time movie search with genre filtering, infinite scroll auto-load, and pers
 
 AI Engineer or Backend Engineer roles at **AI-first startups** — teams that are shipping, not planning.
 
-- ✅ Remote-first
+- ✅ Anywhere in India
 - ✅ Bengaluru / Relocatable
 - ✅ India or global companies hiring in India
 
